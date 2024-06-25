@@ -1,1 +1,1 @@
-# staking-contract
+welcome to  Gomemin# staking-contract
